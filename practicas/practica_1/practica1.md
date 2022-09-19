@@ -1,9 +1,6 @@
-<<<<<<< HEAD:Practicas/Pr-1.md
-## Obtención de los requerimientos.
-=======
 # Práctica 1
+
 ## Obtención de los requerimientos
->>>>>>> 2a2a568021653aef8dbff1840023426144503f66:practicas/practica1/practica1.md
 
 ### Definiciones
 
