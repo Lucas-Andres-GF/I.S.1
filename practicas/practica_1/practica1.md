@@ -13,10 +13,10 @@
 
 2. Defina requerimientos funcionales y no funcionales.
 
-    *Funcional:* Describen las funciones que el software debe poseer para alcanzar los objetivos.
+    - *Funcional:* Describen las funciones que el software debe poseer para alcanzar los objetivos.
 
 
-    *No Funcional:* Definen las propiedades/contexto del software. 
+    - *No Funcional:* Definen las propiedades/contexto del software. 
 
 
 3. Defina que es un stakeholder. 
@@ -183,7 +183,7 @@
 
 #### b) Habiendo resuelto los problemas presentados, ¿por qué considera que los requerimientos de los distintos stakeholders podrían entrar en conflicto?
 
-    Considero que podrián probocarse conflictos por la cantidad de Stakeholders a disposición. Aplicando buenas y efectivas tecnicas, se solucionarian estos mismo. 
+Considero que podrián probocarse conflictos por la cantidad de Stakeholders a disposición. Aplicando buenas y efectivas tecnicas, se solucionarian estos mismo. 
 
 
 ## Entrevistas.
@@ -194,15 +194,92 @@
 
 2. Enumere y describa brevemente las etapas de la preparación de una entrevista.
 
-3. Enumere y describa brevemente qué tipos de preguntas puede contener una entrevista. Detalle ventajas y
-desventajas de cada una.
+3. Enumere y describa brevemente qué tipos de preguntas puede contener una entrevista. Detalle ventajas y desventajas de cada una.
 
-4. Enumere y describa brevemente qué tipo de estructuras y organización existen para el armado de una
-entrevista.
+4. Enumere y describa brevemente qué tipo de estructuras y organización existen para el armado de una entrevista.
 
 5. Analice un formato de la planilla adecuado al momento de armar una entrevista.
 
 6. Analice un formato de la planilla adecuado al momento de terminar una entrevista.
 
+### Parte II Situaciones
+
+**Situación 1**
+
+**Tiene una entrevista con el gerente de ventas de una empresa el cual desea informatizar dicho sector pero no tuvo tiempo de preparar las preguntas por lo que le pidió a un nuevo empleado que le prepare algunas. Cuando las lee, se da cuenta que son inadecuadas.**
+
+**Lea las preguntas y vuelva a redactarlas de una manera más apropiada. Especifique por qué le parece inadecuada cada una de ellas.**
+
+- a. Sus subordinados me dijeron que la empresa no anda bien. ¿Es cierto?
+
+- b. Soy nuevo en esto. ¿Qué he dejado afuera?
+
+- c. ¿Estará usted de acuerdo con los demás gerentes de ventas, respecto a que computarizar las ventas mensuales y luego realizar un análisis de la tendencia tendría usted grandes mejoras?
+
+- d. ¿No habrá una mejor manera de hacer proyecciones de sus ventas, que ese procedimiento anticuado que usted utiliza?
+
+**Situación 2**
+
+**Apenas ha entrado a la oficina de su entrevistado se da cuenta que él no ha dejado de revisar papeles, mirar el reloj y hacer llamadas telefónicas. Usted supone que se siente nervioso porque está atrasado con otro trabajo que tiene que terminar.**
+
+- a. Explique brevemente cómo resolvería tal situación.
+
+- b. Qué opciones propone para el caso en que la entrevista no pueda reprogramarse.
+
+**Situación 3**
+
+**El siguiente es el primer informe de una entrevista realizada por uno de los miembros de su equipo de análisis de sistemas:**
+
+*“En mi opinión, el resultado de la entrevista fue muy bueno. El entrevistado me permitió hablar con él durante una hora y media. Me relató toda la historia del negocio, que fue muy interesante. También mencionó que las cosas no han cambiado desde que él ha estado en la empresa, hace aproximadamente 16 años. En breve nos reuniremos nuevamente para terminar la entrevista, pues, no tuvimos tiempo para analizar las preguntas que preparé “.*
+
+- a. Lea atentamente el informe de la entrevista y explique qué sensación le deja dicho informe.
+
+- b. Indique si existe información que es irrelevante en el informe.
+
+- c. Mencione tres sugerencias que le haría a su compañero de equipo para que realizara una mejor entrevista la próxima vez
+
+### Parte III Problemas
+**Problema 1**
+
+**Preparar una entrevista para obtener los requerimientos del siguiente problema:**
+
+**Se desea desarrollar un sistema que permita compartir un vehículo para un viaje. La idea es que cuando una persona tiene que realizar un viaje lo publique en la aplicación. Luego el resto de los usuarios se postulan para acompañarla y el chofer podrá seleccionar quienes viajan. El objetivo es abaratar costos y evitar congestiones en el tránsito.**
 
 
+**Problema 2**
+
+**Preparar una entrevista para obtener los requerimientos del siguiente problema:**
+
+**CookBooks es un negocio pequeño manejado por una pareja jubilada. Hasta este momento, Cookbooks ha vendido sus libros sólo a través de pedidos por correo. Los dueños ahora quieren desarrollar un sistema en línea para vender libros de cocina difíciles de conseguir y agotados a través de internet. Los visitantes podrán hojear diferentes libros de cocina, pero tendrán que crear una cuenta del cliente antes de poder hacer una compra. Los pagos se aceptarán sólo en línea con una tarjeta de crédito reconocida.**
+
+### Cuestionarios
+
+#### Parte I Definiciones.
+- 1) Describa qué tipo de información se busca mediante la aplicación de cuestionarios.
+
+- 2) Describa bajo qué circunstancia considera apropiado utilizar cuestionarios.
+
+- 3) Describa los dos tipos de cuestionarios.
+
+
+#### Parte II Situaciones
+
+**Situación 1**
+
+**Alguien nuevo en el centro de cómputo de un gimnasio que tiene varias sucursales, viene con muchas ganas de mejorar las cosas que ve dentro del mismo. Dicho centro está desarrollando un sistema en red que usarán todas las sucursales.**
+
+**Dado el siguiente cuestionario verifique si es necesario reescribir las preguntas, justifique.**
+
+![](/images/cuestionario_situacion_1.png)
+
+**Situación 2**
+
+**El siguiente es un cuestionario diseñado por un empleado de una empresa textil que se especializa en fabricar medias para hombres. Este empleado lo escribió en calidad de gerente de la oficina que tiene a cargo la propuesta de compra / implementación de un nuevo sistema de cómputos**
+
+![](/images/cuestionario_situacion_2.png)
+
+- a. Reformule o elimine las preguntas que considere inapropiadas.
+
+- b. Realice una crítica sobre el diseño y el estilo en cuanto a espacio en blanco, espacio para las respuestas,facilidad para responder, etc.
+
+- c. Escriba el cuestionario nuevamente, teniendo en cuenta lo respondido en los puntos a y b.
