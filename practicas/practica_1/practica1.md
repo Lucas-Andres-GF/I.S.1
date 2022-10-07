@@ -188,11 +188,31 @@ Considero que podrián probocarse conflictos por la cantidad de Stakeholders a d
 ### Parte I Definiciones.
 
 1. Describa qué tipo de información puede obtenerse en una entrevista.
+- OPINIONES
+- OBJETIVOS
+- PROCEDIMIENTOS INFORMALES
+- SENTIMIENTOS
 
 2. Enumere y describa brevemente las etapas de la preparación de una entrevista.
 
 3. Enumere y describa brevemente qué tipos de preguntas puede contener una entrevista. Detalle ventajas y desventajas de cada una.
-
+- Preguntas abiertas
+    - Ventajas
+        - Revelan nueva línea de preguntas 
+        - Hacen más interesante la entrevista
+        - Permiten espontaneidad
+    - Desventajas
+        - Pueden dar muchos detalles irrelevantes
+        - Se puede perder el control de la entrevista
+        - Parece que el entrevistador no tiene los objetivos claros
+- Preguntas cerradas
+    - Ventajas 
+        - Ahorran tiempo
+        - Se mantiene más fácil el control de la entrevista
+    Se consiguen datos relevantes
+    - Desventajas
+        - Pueden aburrir al encuestado
+        - No se obtienen detalles
 4. Enumere y describa brevemente qué tipo de estructuras y organización existen para el armado de una entrevista.
 
 5. Analice un formato de la planilla adecuado al momento de armar una entrevista.
